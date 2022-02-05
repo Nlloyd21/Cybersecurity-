@@ -110,4 +110,3 @@ var enterFunction = (event) =>{
 }
 var passwordField = document.getElementById("password");
 passwordField.addEventListener("keyup", enterFunction);
-
